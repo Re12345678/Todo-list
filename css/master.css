@@ -110,3 +110,9 @@ ul li span:hover{
     background-color: gray;
     color: black;
 }
+@media (max-width:767px) {
+.container .todo{
+    width: 351px;
+    left: 7px;
+}
+}
